@@ -8,5 +8,5 @@ I'm LuBaiqi, a college student in China.
 
 ### About
 
--  🔭 I’m currently working on Automation, Robotic, CS...
-- 💬 Ask me about anything via [email](mailto:ittuann@outlook.com)
+- 🔭 I’m currently working on Automation, Robotic, CS...
+- 💬 Feel free to contact me about anything via [email](mailto:ittuann@outlook.com)

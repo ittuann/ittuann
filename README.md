@@ -8,5 +8,5 @@ I'm LuBaiqi, a college student.
 
 ### About
 
-- 🔭 I’m currently working on Robotic, ME, CS...
+- 🔭 I’m currently working on Robotics, Embedded, ME, CS...
 - 💬 Feel free to contact me about anything via [email](mailto:ittuann@outlook.com)

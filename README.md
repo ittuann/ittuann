@@ -10,4 +10,5 @@ I'm LuBaiqi, a college student.
 
 - 💫 I am a self-taught coder ~
 - 🔭 Currently working on Robotics, Embedded, ME, CS...
+- 🌱 I am passionate about open source because of my self-learning experience. I also want to contribute to the open source community in any way I can!
 - 💬 Feel free to contact me about anything via [email](mailto:ittuann@outlook.com)

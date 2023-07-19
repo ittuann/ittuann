@@ -4,7 +4,7 @@
 
 I'm Baiqi Lu, a college student.
 
-I want to be an interesting person, and create something that can be remembered by others.
+I want to be an interesting person, creating things that can become memories for others.
 
 [![Website](https://img.shields.io/badge/-Blog-ff8000?style=for-the-badge&logo=blogger&logoColor=white&link=https://ittuann.github.io)](https://ittuann.github.io) [![CurriculumVitae](https://img.shields.io/badge/-Résumé-informational?style=for-the-badge&logo=BookStack&logoColor=white&link=https://baiqilu.netlify.app)](https://baiqilu.netlify.app) [![Email](https://img.shields.io/badge/-ittuann@outlook.com-c5221f?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ittuann@outlook.com)](mailto:ittuann@outlook.com) 
 

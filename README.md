@@ -1,8 +1,8 @@
-### Hi! 👋
+### Hi there! 👋 You just found ittuann! 🥳
 
 **It's great to meet you here! 😊**
 
-I'm Baiqi Lu, a college student.
+I'm Baiqi Lu, a college student. You can also call me ittuann \[aɪ.tweɪn\] or airwish.
 
 I want to be an interesting person, creating things that can become memories for others. ✨
 
@@ -14,9 +14,9 @@ I want to be an interesting person, creating things that can become memories for
 
 Here are some quick things about me:
 
-- 💫 I am a self-taught coder ~
+- 💫 I started my coding journey as a self-taught programmer~
 - 🔭 Currently working on Robotics & Embedded & ME & CS, and want to learn everything interesting.
 - 🌱 I am passionate about open source, as my past self-taught programming experience drives my desire to give back and contribute to the open source community that has helped me so much.
 - ❤️ I like eating 🍉, raising 🐈, cycling 🚵, sleeping in 🛌 and watching [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>) 📺.
-<!-- - 📝 Also maybe checkout [my Resume](BaiqiLu-CV.pdf) ,and explore my [LinkedIn](https://www.linkedin.com/in/baiqi-lu-1a2506149/) here! -->
+<!-- - 📝 Consider exploring my [LinkedIn profile](https://www.linkedin.com/in/baiqi-lu-1a2506149)! You can also dive into [my Resume](BaiqiLu-CV.pdf). -->
 - 📫 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)

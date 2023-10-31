@@ -1,3 +1,9 @@
+<p id="banner" align="center">
+    <a href="https://github.com/ittuann">
+        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=ittuann&desc=nya~&descSize=20&descAlign=64&descAlignY=64&height=180"/>
+    </a>
+</p>
+
 ### Hi there~ 👋 You just found ittuann! 🥳
 
 **It's great to meet you here! 😊**

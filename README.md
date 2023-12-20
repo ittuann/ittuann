@@ -1,15 +1,15 @@
 <p id="banner" align="center">
     <a href="https://github.com/ittuann">
-        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=ittuann&desc=nya~&fontAlignY=40&descSize=20&descAlign=64&descAlignY=56&height=192"/>
+        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=ittuann&desc=nya~&fontAlignY=40&descSize=20&descAlign=64&descAlignY=56&height=192" alt="banner" />
     </a>
 </p>
 
-### Hi there~ 👋 You just found ittuann! 🥳
+### Hi there~ 👋 You just found *ittuann*! 🥳
 
 **It's great to meet you here! 😊**
 
 <a href="https://github.com/ittuann">
-  <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&count_private=true&border_color=&e9d8d4&border_radius=20&show_icons=true&rank_icon=github" />
+  <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&count_private=true&border_color=&e9d8d4&border_radius=20&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 
 I want to be an interesting person, creating things that can become memories for others. ✨
@@ -32,6 +32,10 @@ I want to be an interesting person, creating things that can become memories for
 - 🏢 Former summer internship at TCL Group as a software engineer.
 
 ### 🎈 Coding Journey
+
+<a href="https://en.wikipedia.org/wiki/Steins;Gate" target="_blank">
+    <img align="right" height="240" src="https://raw.githubusercontent.com/ittuann/ittuann/main/kurisu.webp" alt="Makise Kurisu" />
+</a>
 
 - 🔭 Currently working on *Robotics* & *Embedded*, and want to learn everything interesting.
 - 💫 Embarked on my coding voyage as a self-taught programmer~

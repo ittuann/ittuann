@@ -1,10 +1,10 @@
 <p id="banner" align="center">
     <a href="https://github.com/ittuann">
-        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=ittuann&desc=nya~&fontAlignY=40&descSize=20&descAlign=64&descAlignY=56&height=192" alt="banner" />
+        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=airwish&desc=nya~&fontAlignY=40&descSize=20&descAlign=64&descAlignY=56&height=192" alt="banner" />
     </a>
 </p>
 
-### Hi there~ 👋 You just found *ittuann*! 🥳
+### Hi there~ 👋 You just found *airwish*! 🥳
 
 **It's great to meet you here! 😊**
 
@@ -26,7 +26,6 @@
 
 ### 🚩 Quick Insights
 
-- 🎓 Currently in my senior year, poised to complete my undergraduate degree.
 - 🌞 Participated in [Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earning the program's highest honor "*Tencent Open Source Contributor*" award.
 - 💡 Recognized as the "*Specialistic Blogger*" within Alibaba Cloud Developer Community.
 - 🏢 Former summer internship at TCL Group as a software engineer.

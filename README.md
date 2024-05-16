@@ -4,7 +4,7 @@
     </a>
 </p>
 
-### Hi there~ 👋 You just found *airwish*! 🥳
+### Hi there~ 👋 You just found *airwish*! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.gif" alt="🥳" width="32" height="32"></picture>
 
 **It's great to meet you here! 😊**
 
@@ -24,13 +24,13 @@
 
 ---
 
-### 🚩 Quick Insights
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32"></picture> Quick Insights
 
 - 🌞 Participated in [Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earning the program's highest honor "*Tencent Open Source Contributor*" award.
 - 💡 Recognized as the "*Specialistic Blogger*" within Alibaba Cloud Developer Community.
 - 🏢 Former summer internship at TCL Group as a software engineer.
 
-### 🎈 Coding Journey
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f388/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f388/512.gif" alt="🎈" width="32" height="32"></picture> Coding Journey
 
 <a href="https://en.wikipedia.org/wiki/Steins;Gate" target="_blank">
     <img align="right" height="240" src="https://raw.githubusercontent.com/ittuann/ittuann/main/kurisu.webp" alt="Makise Kurisu" />
@@ -40,7 +40,7 @@
 - 💫 Embarked on my coding voyage as a self-taught programmer~
 - 🌱 Deeply passionate about open source, as my past self-taught programming experience drives my desire to give back and contribute to the open source community that has helped me so much!
 
-### ☕ About Me
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="32" height="32"></picture> About Me
 
 - ❤️ I like raising 🐈, eating 🍞, cycling 🚵, sleeping in 🛌 and watching [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)) 📺.
 - 🌸 Programming with love & magic~

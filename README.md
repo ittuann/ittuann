@@ -6,13 +6,13 @@
 
 ### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="32" height="32">
 
-**It's great to meet you here! 😊**
+**It's great to meet you here! :D**
 
 <a href="https://github.com/ittuann">
   <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&count_private=true&border_color=&e9d8d4&border_radius=20&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 
-> I want to be an interesting person, creating things that can become memories for others. ✨
+> I want to be an interesting person, creating things that can become memories for others~ ✨
 
 ```
 🆔 ID: ittuann [aɪ.tweɪn] | airwish

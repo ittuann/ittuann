@@ -9,7 +9,7 @@
 **It's great to meet you here! :D**
 
 <a href="https://github.com/ittuann">
-  <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&count_private=true&border_color=&e9d8d4&border_radius=20&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+  <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&include_all_commits=true&count_private=true&show_icons=true&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&border_color=&e9d8d4&border_radius=20&rank_icon=github" alt="GitHub Stats" />
 </a>
 
 > I want to be an interesting person, creating things that can become memories for others~ ✨
@@ -36,7 +36,7 @@
     <img align="right" height="240" src="https://raw.githubusercontent.com/ittuann/ittuann/main/kurisu.webp" alt="Makise Kurisu" />
 </a>
 
-- 🔭 Currently working on *Robotics* & *Embedded*, and want to learn everything interesting.
+- 🔭 Currently working on *Embedded* & *Robotics*, and want to learn everything interesting.
 - 💫 Embarked on my coding voyage as a self-taught programmer~
 - 🌱 Deeply passionate about open source, as my past self-taught programming experience drives my desire to give back and contribute to the open source community that has helped me so much!
 

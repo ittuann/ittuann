@@ -8,7 +8,7 @@
 
 **It's great to meet you here! :D**
 
-<a href="https://github.com/ittuann">
+<a href="https://github.com/ittuann?tab=repositories&q=&sort=stargazers">
   <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=ittuann&include_all_commits=true&count_private=true&show_icons=true&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&border_color=&e9d8d4&border_radius=20&rank_icon=github" alt="GitHub Stats" />
 </a>
 
@@ -44,5 +44,14 @@
 
 - ❤️ I like raising 🐈, eating 🍞, cycling 🚵, sleeping in 🛌 and watching [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)) 📺.
 - 🌸 Programming with love & magic~
-<!-- - 📝 Consider exploring my [LinkedIn profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into [my Resume](BaiqiLu-CV-202311.pdf). -->
+- 📝 Consider exploring my [LinkedIn Profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into my [Resume](https://baiqilu.netlify.app).
 - 💌 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)
+
+<details>
+  <summary>Stats</summary>
+
+  <a href="https://github.com/ittuann?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ittuann&utcOffset=8&theme=nord_bright" alt="Commits Time Stats">
+  </a>
+
+</details>

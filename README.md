@@ -1,10 +1,10 @@
-<p id="banner" align="center">
+<div id="banner" align="center">
     <a href="https://github.com/ittuann">
-        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=airwish&desc=nya~&fontAlignY=40&descSize=20&descAlign=64&descAlignY=56&height=192" alt="banner" />
+        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=airwish&desc=Coding%20with%20love%20and%20magic~&fontColor=0B1013&fontSize=60&fontAlignY=30&descSize=14&descAlign=64&descAlignY=52&height=136" alt="banner" />
     </a>
-</p>
+</div>
 
-### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="32" height="32">
+### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="24" height="24">
 
 **It's great to meet you here! :D**
 

@@ -14,7 +14,7 @@
 
 > I want to be an interesting person, creating things that can become memories for others~ ✨
 
-```
+```plaintext
 🆔 ID: ittuann [aɪ.tweɪn] | airwish
 ```
 
@@ -49,6 +49,10 @@
 
 <details>
   <summary>Stats</summary>
+
+  ```plaintext
+  GPG key ID: A882 0959 29EB E14C (ittuann@outlook.com, Exp: 2026-07-01)
+  ```
 
   <a href="https://github.com/ittuann?tab=repositories">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ittuann&utcOffset=8&theme=nord_bright" alt="Commits Time Stats">

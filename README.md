@@ -44,7 +44,7 @@
 
 - ❤️ I like raising 🐈, cycling 🚵, sleeping in 🛌, working out 💪 and watching [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)) 📺.
 - 🌸 Programming with love & magic~
-- 📝 Consider exploring my [LinkedIn Profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into my [Resume](https://baiqilu.netlify.app).
+- 📝 Consider exploring my [LinkedIn Profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into my Resume.
 - 💌 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)
 
 <details>

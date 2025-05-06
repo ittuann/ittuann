@@ -12,7 +12,7 @@
 
 **It's great to meet you here! :D**
 
-> Zest for life! I'm passionate about creating open-source things that can become part of others' memories~ ✨
+> I'm passionate about creating open-source things that can become part of others' memories~ ✨
 
 ```plaintext
 🆔 ID: ittuann [aɪ.tweɪn] | airwish
@@ -33,7 +33,7 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f388/512.webp" alt="🎈" width="32" height="32"> Coding Journey
 
 <a href="https://en.wikipedia.org/wiki/Steins;Gate" target="_blank">
-    <img src="https://raw.githubusercontent.com/ittuann/ittuann/main/kurisu.webp" alt="Makise Kurisu" align="right" height="240" />
+    <img src="https://anime-random-peek-image-api.vercel.app?img=Kurisu%20Makise.png" alt="Makise Kurisu" align="right" height="212" />
 </a>
 
 - 🔭 Currently working on *Embedded* & *Robotics*, and want to learn everything interesting.

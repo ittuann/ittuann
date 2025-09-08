@@ -4,7 +4,7 @@
     </a>
 </div>
 
-### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="24" height="24">
+### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="20" height="20">
 
 <a href="https://github.com/ittuann?tab=repositories&q=&sort=stargazers" target="_blank">
   <img src="https://github-readme-stats-ittuanns-projects.vercel.app/api?username=ittuann&count_private=true&show=prs_merged&show_icons=true&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&border_color=&e9d8d4&border_radius=20&rank_icon=github" alt="GitHub Stats" align="right" width="450" />
@@ -26,7 +26,7 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" alt="☄" width="32" height="32"> Quick Insights
 
-- 🌞 Participated in [Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earning the program's highest honor "*Tencent Open Source Contributor*" award.
+- 🌞 Participated in [Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earning the program's highest honor "*[Tencent Open Source Contributor](https://www.linkedin.com/in/baiqi-lu/details/honors/)*" award.
 - 💡 Recognized as the "*Specialistic Blogger*" within Alibaba Cloud Developer Community.
 - 🏢 Former summer internship at TCL Group as a software engineer.
 

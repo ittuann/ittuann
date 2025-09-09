@@ -26,8 +26,8 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" alt="☄" width="32" height="32"> Quick Insights
 
-- 🌞 Participated in [Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earning the program's highest honor "*[Tencent Open Source Contributor](https://www.linkedin.com/in/baiqi-lu/details/honors/)*" award.
-- 💡 Recognized as the "*Specialistic Blogger*" within Alibaba Cloud Developer Community.
+- 🌞 Participated in **[Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023**, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earned the program's highest honor "*[Tencent Open Source Contributor](https://www.linkedin.com/in/baiqi-lu/details/honors/)*" award.
+- 💡 Awarded "*Specialistic Blogger*" by Alibaba Cloud Developer Community.
 - 🏢 Former summer internship at TCL Group as a software engineer.
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f388/512.webp" alt="🎈" width="32" height="32"> Coding Journey

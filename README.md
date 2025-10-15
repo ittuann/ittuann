@@ -15,7 +15,7 @@
 > I'm passionate about creating open-source things that can become part of others' memories~ ✨
 
 ```plaintext
-🆔 ID: ittuann [aɪ.tweɪn] | airwish
+🆔 ID: air wish | ittuann [aɪ.tweɪn]
 ```
 
 <code>[![Website](https://img.shields.io/badge/-Blog-ff8000?style=for-the-badge&logo=blogger&logoColor=white&link=https://ittuann.github.io)](https://ittuann.github.io)</code>
@@ -26,7 +26,7 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" alt="☄" width="32" height="32"> Quick Insights
 
-- 🌞 Participated in **[Tencent Summer of Code](https://opensource.tencent.com/summer-of-code) 2023**, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earned the program's highest honor "*[Tencent Open Source Contributor](https://www.linkedin.com/in/baiqi-lu/details/honors/)*" award.
+- 🌞 Participated in **[Tencent Summer of Code](https://opensource.tencent.com/summer-of-code)** 2023, contributing significantly to [@OpenAtomFoundation](https://github.com/OpenAtomFoundation)/[TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny), earned the program's highest honor "*[Tencent Open Source Contributor](https://www.linkedin.com/in/baiqi-lu/details/honors/)*" award.
 - 💡 Awarded "*Specialistic Blogger*" by Alibaba Cloud Developer Community.
 - 🏢 Former summer internship at TCL Group as a software engineer.
 

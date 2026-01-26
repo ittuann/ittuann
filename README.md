@@ -47,7 +47,7 @@
 - 📝 Consider exploring my [LinkedIn Profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into my Resume.
 - 💌 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)
 
-> One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.
+> "One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there."
 
 <details>
   <summary><kbd>Stats</kbd></summary>

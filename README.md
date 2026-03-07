@@ -36,8 +36,7 @@
     <img src="https://anime-random-peek-image-api.vercel.app?img=Kurisu%20Makise.png" alt="Makise Kurisu" align="right" height="212" />
 </a>
 
-- 🔭 Currently working on *Embedded* & *Robotics*, and want to learn everything interesting.
-- 💫 Embarked on my coding voyage as a self-taught programmer~
+- 🔭 Currently working on *Backend* & *Embedded Robotics*, and want to learn everything interesting.
 - 🌱 Deeply passionate about open source, as my past self-taught programming experience drives my desire to give back and contribute to the open source community that has helped me so much!
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp" alt="🌈" width="32" height="32"> About Me

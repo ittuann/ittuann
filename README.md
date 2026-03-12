@@ -6,8 +6,8 @@
 
 ### Hi there~ 👋 You just found *airwish*! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" alt="🥳" width="20" height="20">
 
-<a href="https://github.com/ittuann?tab=repositories&q=&sort=stargazers" target="_blank">
-  <img src="https://github-readme-stats-ittuanns-projects.vercel.app/api?username=ittuann&count_private=true&show=prs_merged&show_icons=true&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&border_color=&e9d8d4&border_radius=20&rank_icon=github" alt="GitHub Stats" align="right" width="450" />
+<a href="https://github.com/ittuann?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats-extended-ittuann.vercel.app/api?username=ittuann&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=prs_merged&show_icons=true&bg_color=caefd7,f5bfd7,abc9e9&title_color=8d192b&text_color=862931&icon_color=b71f36&border_color=&e9d8d4&border_radius=20&rank_icon=github" alt="GitHub Stats" align="right" width="450" />
 </a>
 
 **It's great to meet you here! :D**

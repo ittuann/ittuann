@@ -45,15 +45,15 @@
 - 📝 Consider exploring my [LinkedIn Profile](https://www.linkedin.com/in/baiqi-lu)! You can also dive into my Resume.
 - 💌 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)
 
+```plaintext
+GPG key ID: baiqilu@apache.com  - 1F0A EF92 4E8F DD4E (Exp: 2029-06-04)
+GPG key ID: ittuann@outlook.com - A882 0959 29EB E14C (Exp: 2026-07-01)
+```
+
 > "One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there."
 
 <details>
   <summary><kbd>Stats</kbd></summary>
-
-  ```plaintext
-GPG key ID: A882 0959 29EB E14C (ittuann@outlook.com, Exp: 2026-07-01)
-GPG key ID: 1F0A EF92 4E8F DD4E (baiqilu@apache.com,  Exp: 2029-06-04)
-  ```
 
   <a href="https://github.com/ittuann?tab=repositories" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ittuann&utcOffset=8&theme=nord_bright" alt="Commits Time Stats">

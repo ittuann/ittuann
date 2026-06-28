@@ -18,7 +18,7 @@
 🆔 ID: air wish | ittuann [aɪ.tweɪn]
 ```
 
-<code>[![Website](https://img.shields.io/badge/-Blog-ff8000?style=for-the-badge&logo=blogger&logoColor=white&link=https://ittuann.github.io)](https://ittuann.github.io)</code>
+<code>[![Blog Website](https://img.shields.io/badge/-Blog-ff8000?style=for-the-badge&logo=gitbook&logoColor=white&link=https://blog.ittuann.com)](https://blog.ittuann.com)</code>
 <code>[![Email](https://img.shields.io/badge/-ittuann@outlook.com-c5221f?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ittuann@outlook.com)](mailto:ittuann@outlook.com)</code>
 
 ---

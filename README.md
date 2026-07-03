@@ -47,13 +47,17 @@
 
 ```plaintext
 GPG key ID: baiqilu@apache.com  - 1F0A EF92 4E8F DD4E (Exp: 2029-06-04)
-GPG key ID: ittuann@outlook.com - A882 0959 29EB E14C (Exp: 2026-07-01)
+GPG key ID: ittuann@outlook.com - 2B47 7EFC FA7C 9517 (Exp: 2029-06-01)
 ```
 
 > "One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there."
 
 <details>
   <summary><kbd>Stats</kbd></summary>
+
+```plaintext
+GPG key ID (Expired): ittuann@outlook.com - A882 0959 29EB E14C (Exp: 2026-07-01)
+```
 
   <a href="https://github.com/ittuann?tab=repositories" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ittuann&utcOffset=8&theme=nord_bright" alt="Commits Time Stats">

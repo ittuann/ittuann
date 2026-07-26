@@ -50,6 +50,9 @@ GPG key ID: baiqilu@apache.com  - 1F0A EF92 4E8F DD4E (Exp: 2029-06-04)
 GPG key ID: ittuann@outlook.com - 2B47 7EFC FA7C 9517 (Exp: 2029-06-01)
 ```
 
+Open-source Code has no borders, transcending national boundaries and political stances, I believe in and treasure the true value of code and human ingenuity.
+I always welcome developers worldwide to contribute to my open-source projects, and I deeply appreciate any collaboration that drives our shared work forward.
+
 > "One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there."
 
 <details>

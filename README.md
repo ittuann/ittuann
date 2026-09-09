@@ -46,7 +46,7 @@
 - 💌 Feel free to reach out to me anything via email at [ittuann@outlook.com](mailto:ittuann@outlook.com)
 
 ```plaintext
-GPG key ID: baiqilu@apache.com  - 1F0A EF92 4E8F DD4E (Exp: 2029-06-04)
+GPG key ID: baiqilu@apache.org  - 1F0A EF92 4E8F DD4E (Exp: 2029-06-04)
 GPG key ID: ittuann@outlook.com - 2B47 7EFC FA7C 9517 (Exp: 2029-06-01)
 ```
 
